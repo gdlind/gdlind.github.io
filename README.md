@@ -1,3 +1,4 @@
+<!--To build the site locally, download docker, then use git bash to run: docker compose pull; then docker compose up. Then find the server and use the last few numbers to access the locally hosted site. eg. http://localhost:8080/-->
 # Gary Lind
 
 I am an assistant professor at the [University of Pittsburgh](https://business.pitt.edu/)). I teach Managerial Accounting.
