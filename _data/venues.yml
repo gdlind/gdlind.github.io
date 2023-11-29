@@ -1,0 +1,31 @@
+"JAR":
+  url: https://onlinelibrary.wiley.com/journal/1475679X
+  color: "#d58b76"
+
+"JAE":
+  url: https://www.sciencedirect.com/journal/journal-of-accounting-and-economics
+  color: "#ade0d5"
+
+"TAR":
+  url: https://aaahq.org/Research/Journals/The-Accounting-Review
+  color: "#427a3d"
+
+"RAST":
+  url: https://www.springer.com/journal/11142
+  color: "#772507"
+
+"CAR":
+  url: https://onlinelibrary.wiley.com/journal/19113846
+  color: "#2467ad"
+
+"JF":
+  url: https://onlinelibrary.wiley.com/journal/15406261
+  color: "#672f1e"
+
+"RFS":
+  url: https://academic.oup.com/rfs?login=false
+  color: "#246aa7"
+
+"MS":
+  url: https://pubsonline.informs.org/journal/mnsc
+  color: "#143993"

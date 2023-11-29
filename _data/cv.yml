@@ -1,0 +1,60 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Name
+      value: Gary Lind
+    - name: Employer
+      value: University of Pittsburgh
+    - name: Address
+      value: 216 Mervis Hall
+    - name: Email
+      value: gdlind@katz.pitt.edu
+    - name: Languages
+      value: English (native), Spanish (fluent)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Accounting)
+      institution: Rice University
+      year: 2019
+    - title: MS (Management)
+      institution: Rice University
+      year: 2019
+    - title: MS (Economics)
+      institution: Rice University
+      year: 2017
+
+- title: Academic Employment
+  type: time_table
+  contents:
+    - title: Assistant Professor of Accounting
+      institution: University of Pittsburgh
+      year: 2019 - Present
+      
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Accounting and Macroeconomics.
+      items: 
+        - Micro-to-macro effects of accounting.
+        - Macro-to-micro effects on accounting.
+    - title: Decisionmaking under uncertainty.
+      items:
+        - The effects of uncertainty (macro and micro) on firm investment.
+
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: University of Pittsburgh
+      items: 
+        - Managerial Accounting (BUSACC 0040), Spring 2020--Present
+    - title: Rice University
+      items:
+        - Financial Accounting (BUSI 305) Summer 2016
+        - Managerial Accounting (MAcc 531) Winter 2018
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Music, Baseball, Fly fishing
