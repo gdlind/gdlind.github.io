@@ -11,6 +11,8 @@
       value: gdlind@katz.pitt.edu
     - name: Languages
       value: English (native), Spanish (fluent)
+    - name: Tools
+      value: Stata, SAS, Python, LaTeX, Beamer, R
 
 - title: Education
   type: time_table
