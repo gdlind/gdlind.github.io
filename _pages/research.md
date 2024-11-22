@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: Publications by categories in reverse chronological order.
-years: [2023, 2022, 2021]
+years: [2024, 2023, 2022, 2021]
 nav: true
 nav_order: 1
 ---
