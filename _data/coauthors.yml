@@ -1,31 +1,35 @@
-"Ramesh":
-  - firstname: ["Kris", "K.", "K"]
-    url: https://business.rice.edu/person/k-ramesh
-
-"Ferracuti":
-  - firstname: ["Elia"]
-    url: https://sites.google.com/view/eliaferracuti
+"Aguilar":
+  - firstname: ["Marcela"]
+    url: https://business.rice.edu/person/marcela-aguilar
 
 "Binz":
   - firstname: ["Oliver"]
     url: https://esmt.berlin/faculty-research/person/oliver-binz
 
-"Stephan": 
-  - firstname: ["Andrew"]
-    url: https://www.colorado.edu/business/leeds-directory/faculty/andrew-stephan
+"Ferracuti":
+  - firstname: ["Elia"]
+    url: https://sites.google.com/view/eliaferracuti
 
 "Li":
   - firstname: ["Edward", "Edward X.", "E. X."]
     url: https://zicklin.baruch.cuny.edu/faculty-profile/edward-x-li/
 
-"Shen":
-  - firstname: ["Min"]
-    url: https://zicklin.baruch.cuny.edu/faculty-profile/min-shen/
-
 "Naranjo":
   - firstname: ["Patricia"]
     url: https://gatton.uky.edu/faculty-research/faculty/naranjo-patricia
 
-"Aguilar":
-  - firstname: ["Marcela"]
-    url: https://business.rice.edu/person/marcela-aguilar
+"Ramesh":
+  - firstname: ["Kris", "K.", "K"]
+    url: https://business.rice.edu/person/k-ramesh
+
+"Shen":
+  - firstname: ["Min"]
+    url: https://zicklin.baruch.cuny.edu/faculty-profile/min-shen/
+
+"Skinner":
+  - firstname: ["Nicole A", "Nikki", "Nicole"]
+    url: https://www.colorado.edu/business/nikki-skinner
+
+"Stephan": 
+  - firstname: ["Andrew"]
+    url: https://www.colorado.edu/business/leeds-directory/faculty/andrew-stephan
