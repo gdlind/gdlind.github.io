@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of Accounting at the University of Pittsburgh
+subtitle: Associate Professor of Accounting at the University of Pittsburgh
 
 profile:
   align: left
